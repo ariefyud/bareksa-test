@@ -1,0 +1,47 @@
+@import url('https://cdn.syncfusion.com/ej2/material.css');
+
+.date-picker {
+  position: absolute;
+  height: 424px;
+  left: 1.11%;
+  right: 71.11%;
+  top: 664px;
+
+  background: #ffffff;
+  /* Components / Border color */
+
+  border: 1px solid #e5e5e5;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+
+#cancel {
+  cursor: pointer;
+  position: absolute;
+  width: 96px;
+  height: 32px;
+  left: calc(50% - 96px / 2 - 56px);
+  bottom: 32px;
+
+  /* Components / Border color */
+
+  border: 1px solid #e5e5e5;
+  background: #ffffff;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+
+#filter {
+  cursor: pointer;
+  position: absolute;
+  width: 96px;
+  height: 32px;
+  left: calc(50% - 96px / 2 + 56px);
+  bottom: 32px;
+
+  /* 01. Primary/500 */
+
+  border: none;
+  background: #82c341;
+  border-radius: 4px;
+}

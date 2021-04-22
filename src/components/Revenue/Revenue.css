@@ -1,0 +1,197 @@
+.revenue {
+  position: absolute;
+  height: 472px;
+  width: 646px;
+  left: 49.44%;
+  right: 1.11%;
+  top: 168px;
+  margin-left: 24px;
+
+  background: #ffffff;
+  /* Components / Border color */
+
+  border: 1px solid #e5e5e5;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+
+.top-title {
+  position: absolute;
+  height: 32px;
+  left: 32px;
+  right: 32px;
+  top: 32px;
+}
+
+.top-title h1 {
+  position: absolute;
+  width: 106px;
+  height: 32px;
+  left: 0px;
+  top: calc(50% - 32px / 2);
+
+  /* 24 sp • H5 / Montserrat */
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 132%;
+  /* identical to box height, or 32px */
+
+  display: flex;
+  align-items: center;
+
+  /* Dark */
+
+  color: #333333;
+}
+
+.top-title .date {
+  position: absolute;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 160px;
+  height: 32px;
+  right: 0px;
+  top: calc(50% - 32px / 2);
+
+  /* Components / Border color */
+  border: 1px solid #e5e5e5;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+
+.date-details {
+  position: relative;
+  display: flex;
+  /* background-color: goldenrod; */
+}
+
+.date h3 {
+  position: relative;
+  /* left: 16px; */
+  /* right: 16px; */
+  top: 6.5px;
+  /* bottom: 8px; */
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  /* or 143% */
+
+  letter-spacing: 0.25px;
+
+  color: #333333;
+}
+
+.date img {
+  /* position: absolute; */
+  width: 16px;
+  height: 16px;
+  right: 0px;
+  top: calc(50% - 16px / 2);
+}
+
+.chart {
+  position: absolute;
+  height: 232px;
+  left: 4.49%;
+  right: 4.49%;
+  top: 96px;
+  /* border: 1px solid red; */
+}
+
+.bottom-value {
+  position: absolute;
+  width: 126px;
+  height: 72px;
+  left: 32px;
+  top: 360px;
+}
+
+.bottom-value h6 {
+  position: absolute;
+  width: 93px;
+  height: 16px;
+  left: 0px;
+  top: 0px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height, or 133% */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.4px;
+
+  /* Components / Caption color (grey) */
+
+  color: #9c9c9c;
+}
+
+.bottom-value h1 {
+  position: absolute;
+  width: 122px;
+  height: 32px;
+  left: 0px;
+  top: 16px;
+
+  /* 24 sp • H5 / Montserrat */
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 132%;
+  /* identical to box height, or 32px */
+
+  display: flex;
+  align-items: center;
+
+  /* Dark */
+
+  color: #333333;
+}
+
+.bottom-value p {
+  position: absolute;
+  left: 25%;
+  right: 25%;
+  top: 76.67%;
+  bottom: 58.33%;
+
+  width: 54px;
+  height: 16px;
+  left: 0px;
+  bottom: 0px;
+
+  /* position: relative;
+  left: 27.78%;
+  right: 3.7%;
+  top: 0%;
+  bottom: 0%; */
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height, or 133% */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.4px;
+
+  /* 01. Primary/700 */
+
+  color: #5f9f2f;
+}
