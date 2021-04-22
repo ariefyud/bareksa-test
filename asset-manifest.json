@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/bareksa-test/static/css/main.caafae9d.chunk.css",
+    "main.js": "/bareksa-test/static/js/main.aeeeb425.chunk.js",
+    "main.js.map": "/bareksa-test/static/js/main.aeeeb425.chunk.js.map",
+    "runtime-main.js": "/bareksa-test/static/js/runtime-main.9b0948ac.js",
+    "runtime-main.js.map": "/bareksa-test/static/js/runtime-main.9b0948ac.js.map",
+    "static/js/2.5cb03cd0.chunk.js": "/bareksa-test/static/js/2.5cb03cd0.chunk.js",
+    "static/js/2.5cb03cd0.chunk.js.map": "/bareksa-test/static/js/2.5cb03cd0.chunk.js.map",
+    "index.html": "/bareksa-test/index.html",
+    "static/css/main.caafae9d.chunk.css.map": "/bareksa-test/static/css/main.caafae9d.chunk.css.map",
+    "static/js/2.5cb03cd0.chunk.js.LICENSE.txt": "/bareksa-test/static/js/2.5cb03cd0.chunk.js.LICENSE.txt",
+    "static/media/bell.e67c1317.svg": "/bareksa-test/static/media/bell.e67c1317.svg",
+    "static/media/calendar.954afd63.svg": "/bareksa-test/static/media/calendar.954afd63.svg",
+    "static/media/chevron-down.6703270c.svg": "/bareksa-test/static/media/chevron-down.6703270c.svg",
+    "static/media/gear.c960160f.svg": "/bareksa-test/static/media/gear.c960160f.svg",
+    "static/media/indicator1.e8276fa1.svg": "/bareksa-test/static/media/indicator1.e8276fa1.svg",
+    "static/media/indicator2.0cb255d4.svg": "/bareksa-test/static/media/indicator2.0cb255d4.svg",
+    "static/media/indicator3.de8a044c.svg": "/bareksa-test/static/media/indicator3.de8a044c.svg",
+    "static/media/search.8d4d3c85.svg": "/bareksa-test/static/media/search.8d4d3c85.svg",
+    "static/media/tridot.8ef932cf.svg": "/bareksa-test/static/media/tridot.8ef932cf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b0948ac.js",
+    "static/js/2.5cb03cd0.chunk.js",
+    "static/css/main.caafae9d.chunk.css",
+    "static/js/main.aeeeb425.chunk.js"
+  ]
+}
